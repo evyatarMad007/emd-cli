@@ -5,7 +5,7 @@
   "main": "app.js",
   "repositories": {
     "type": "git",
-    "url": "https://github.com/evyatarMad007/cli-extreme.git"
+    "url": "https://github.com/evyatarMad007/cli-extreme"
   },
   "scripts": {
     "start": "node dist/app.js",
