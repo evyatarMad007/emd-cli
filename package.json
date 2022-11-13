@@ -1,6 +1,6 @@
 {
   "name": "cli-extreme",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "CLI Node and React",
   "main": "app.js",
   "repositories": {
