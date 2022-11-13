@@ -1,0 +1,27 @@
+{
+  "name": "cli-extreme",
+  "version": "1.0.0",
+  "description": "CLI Node and React",
+  "main": "app.js",
+  "repositories": {
+    "type": "git",
+    "url": "https://github.com/evyatarMad007/cli-extreme.git"
+  },
+  "scripts": {
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Evyatar Madari",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "bin": {
+    "emd-cli": "./bin/emd-cli-module.js"
+  },
+  "dependencies": {
+    "cli-table": "^0.3.11",
+    "colors": "^1.4.0"
+  }
+}
