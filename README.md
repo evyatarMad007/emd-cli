@@ -1,34 +1,20 @@
 # CLI-Extreme
-
+=========
 
 <img src="./assets/img/back.jpg"/>
-
 <br>
-
 <img src="./assets/img/front.jpg"/>
 
-CLI Table [![NPM Version](http://badge.fury.io/js/cli-table.svg)](http://badge.fury.io/js/cli-table) [![Build Status](https://secure.travis-ci.org/Automattic/cli-table.svg)](http://travis-ci.org/Automattic/cli-table)
-=========
-<!-- ```bash
-$ make test
-``` -->
-
-This utility allows you to render unicode-aided tables on the command line from
-your node.js scripts.
-
-![Screenshot](http://i.imgur.com/sYq4T.png)
-
-## Features
 
 ## Features - in Simple CLI Command:
 
-### backend server
+### Backend Node.js Express server
 - Create a boilerplate for Node.js Express app.
 - Creating files in the MVC architecture in the node express application.
 - backend server: Creating files in the MVC architecture in the node express application.
   which include: controllers | services | models | views | interfaces | tests | middleware and more...
 
-### backend server
+### Frontend - React TypeScript App 
 - Create a boilerplate for React typescript app.
 - Creating components with configured styled-component files + unit test files. 
 - Creating components such as:
@@ -42,7 +28,6 @@ npm install -g cli-extreme
 ```
 
 ## How to use
-
 
 ### Show all commands: 
 ```bash    
