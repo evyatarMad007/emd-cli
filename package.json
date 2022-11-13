@@ -1,6 +1,6 @@
 {
   "name": "emd-cli",
-  "version": "2.2.0",
+  "version": "2.3.1",
   "description": "CLI Node and React",
   "main": "app.js",
   "repositories": {
