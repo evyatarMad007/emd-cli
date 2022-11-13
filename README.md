@@ -1,9 +1,9 @@
-# CLI-Extreme
+# emd-cli
 
 
-![Screenshot](https://github.com/evyatarMad007/cli-extreme/blob/main/assets/img/back.jpg?raw=true)
+![Screenshot](https://github.com/evyatarMad007/emd-cli/blob/main/assets/img/back.jpg?raw=true)
 <br>
-![Screenshot](https://github.com/evyatarMad007/cli-extreme/blob/main/assets/img/front.jpg?raw=true)
+![Screenshot](https://github.com/evyatarMad007/emd-cli/blob/main/assets/img/front.jpg?raw=true)
 
 ## Features - in Simple CLI Command:
 
@@ -23,14 +23,14 @@
 ## Installation
 
 ```bash    
-npm install -g cli-extreme
+npm install -g emd-cli
 ```
 
 ## How to use
 
 ### Show all commands: 
 ```bash    
-cli-extreme --help
+emd-cli --help
 ```
 ```javascript
 
