@@ -1,6 +1,6 @@
 {
-  "name": "cli-extreme",
-  "version": "2.1.0",
+  "name": "emd-cli",
+  "version": "2.2.0",
   "description": "CLI Node and React",
   "main": "app.js",
   "repositories": {
