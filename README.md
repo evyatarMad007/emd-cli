@@ -1,9 +1,9 @@
 # CLI-Extreme
 
-<img src="./assets/img/back.jpg"/>
-<br>
-<img src="./assets/img/front.jpg"/>
 
+![Screenshot](https://github.com/evyatarMad007/cli-extreme/blob/main/assets/img/back.jpg?raw=true)
+<br>
+![Screenshot](https://github.com/evyatarMad007/cli-extreme/blob/main/assets/img/front.jpg?raw=true)
 
 ## Features - in Simple CLI Command:
 
