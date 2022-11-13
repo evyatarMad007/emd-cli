@@ -1,8 +1,8 @@
 #!/usr/bin/env node
-const CLIBackend = require('./modules/terminal-area/cli-backend');
-const CLIFrontend = require('./modules/terminal-area/cli-frontend');
-const CLIHelp = require('./modules/terminal-area/cli-help');
-const CLIMsg = require('./modules/utils/cli-msg');
+// import CLIBackend from './modules/terminal-area/cli-backend';
+// import CLIFrontend from './modules/terminal-area/cli-frontend';
+import CLIHelp from './modules/terminal-area/cli-help';
+import CLIMsg from './modules/utils/cli-msg';
 const args = process.argv.slice(2);
 const workSpaceName = args[0];
 
@@ -11,10 +11,10 @@ const workSpaceName = args[0];
 function CLIMapper() {
     switch (workSpaceName) {
         case 'backend':
-            CLIBackend(args);
+            // CLIBackend(args);
             break;
         case 'frontend':
-            CLIFrontend(args);
+            // CLIFrontend(args);
             break;
         case '--help':
             CLIHelp.help();
