@@ -1,6 +1,6 @@
 {
   "name": "cli-extreme",
-  "version": "1.2.3",
+  "version": "2.0.0",
   "description": "CLI Node and React",
   "main": "app.js",
   "repositories": {
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "cli-extreme": "./dist/bin/emd-cli-module.js"
+    "emd-cli": "./dist/bin/emd-cli-module.js"
   },
   "keywords": [],
   "author": "Evyatar Madari",
